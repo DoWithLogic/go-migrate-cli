@@ -1,10 +1,10 @@
-# go-migration-cli
+# go-migrate-cli
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**go-migration-cli** is a custom command-line interface (CLI) tool built using [golang-migrate](https://github.com/golang-migrate/migrate) for managing database migrations in Go projects. This CLI simplifies the process of applying and managing database schema changes, making it easier to version-control and collaborate on database changes within your projects.
+**go-migrate-cli** is a custom command-line interface (CLI) tool built using [golang-migrate](https://github.com/golang-migrate/migrate) for managing database migrations in Go projects. This CLI simplifies the process of applying and managing database schema changes, making it easier to version-control and collaborate on database changes within your projects.
 
-The goal of this repository is to provide a seamless solution for incorporating database migrations into your CI/CD pipelines without the need to install additional libraries or programming languages. By utilizing **go-migration-cli**, you can automate the database migration process within your pipelines, ensuring consistency and reliability across your development and deployment workflows.
+The goal of this repository is to provide a seamless solution for incorporating database migrations into your CI/CD pipelines without the need to install additional libraries or programming languages. By utilizing **go-migrate-cli**, you can automate the database migration process within your pipelines, ensuring consistency and reliability across your development and deployment workflows.
 
 
 ## Features
